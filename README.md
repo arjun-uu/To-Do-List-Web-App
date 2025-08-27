@@ -19,7 +19,7 @@ A simple and interactive **To-Do List web application** built with **HTML, CSS, 
 ## 🚀 Live Demo
 
 Check out the live demo here:  
-[Live Demo](https://arjun-uu.github.io/ToDo-List-App/)
+[Live Demo](https://arjun-uu.github.io/To-Do-List-Web-App/)
 
 ## 📂 Project Structure
 
